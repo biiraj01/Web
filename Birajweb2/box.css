@@ -1,0 +1,18 @@
+.box-wrapper
+{
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;/*left to right*/
+    align-items: center;/*up to down*/
+    column-gap:10px;
+    height: 100vh;
+}
+
+.box
+{
+    background-color: rgb(196, 210, 255);
+    width: 100px;
+    height: 100px;
+}
+
+
