@@ -1,0 +1,19 @@
+.box-wrapper
+{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+.box
+{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.sub-box {
+    background-color: rgb(85, 8, 219);
+    width: 200px;
+    height: 200px;
+}
